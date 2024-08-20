@@ -1,2 +1,2 @@
-# ana_laura_2b
-Ana Laura 2B - Página Web: criando um catálogo de vídeos com HTML e CSS
+# ana_laura_2A
+Ana Laura 2A - Página Web: criando um catálogo de vídeos com HTML e CSS
